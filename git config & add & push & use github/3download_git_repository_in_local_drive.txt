@@ -1,0 +1,15 @@
+Git Repository Download
+-------------------------------------------------
+
+1.open Terminal
+2.Check It git config using this command 
+    
+    git config --global --list
+3. If git config not on your computer then config it 
+
+4. git clone (repository path)
+
+Ex:- git clone https://github.com/DurgaPrasadWebDev/Git-Learn.git
+
+
+5.git repository filles download in local drive of your computer 

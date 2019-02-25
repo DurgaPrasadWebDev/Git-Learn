@@ -1,0 +1,18 @@
+Git config 
+-------------------------------------------------
+
+😐firstTime Use the git In your System then config using this commands 🙂
+
+
+1.open Terminal
+
+2. git config --global user.email  "exampleemail@email.com"
+🥂Ex:- git config --global user.email "r141632@rguktrkv.ac.in"🥂
+
+3. git config --global user.name "userNameofGithub or any version control"
+🥂Ex:- git config --global user.name "DurgaPrasadWebDev"🥂
+
+4. check it git config
+
+🥂git config --list🥂  or 🥂git config --global --list🥂
+

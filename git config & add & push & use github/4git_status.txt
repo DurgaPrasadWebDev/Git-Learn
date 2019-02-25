@@ -1,0 +1,8 @@
+Git Status
+--------------------------------
+
+1.open terminal
+
+2. git status
+
+It tells about git status like that which branch, how many files are modified 

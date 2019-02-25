@@ -1,0 +1,30 @@
+Git add file and commite to conform to save and push to github account
+----------------------------
+
+1.open terminal
+
+2.git status
+
+3.if any file get redcolor then using this command add the file in local repository
+
+4. git add filename with file formate
+
+Ex:- git add start.txt
+
+5. If add all file at a time using dot (.)
+
+Ex:- git add .
+
+6. checkout git status
+
+7.then all files change from  red color to green color
+
+8. git commit -m "description"
+
+Ex:- git commit -m "added the start file and saved"
+
+9.git push origin branchname
+
+Ex:- git push origin master 
+
+If any problem then use this command git push origin master --force

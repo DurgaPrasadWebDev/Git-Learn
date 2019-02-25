@@ -1,0 +1,14 @@
+Git Config Replace with new git 
+-----------------------------------------
+
+1.open terminal
+2. git config --global --replace-all user.email "new@gmail.com"
+
+Ex:- git config --global --replace-all user.email "durgaprasad@crackaptitude.com"
+
+3. git config --global --replace-all user.name "newUserName"
+
+Ex:- git config --global --replace-all user.name "crackaptitudeDurga"
+
+4. Checkit git config
+git config --list or git config --global --list
