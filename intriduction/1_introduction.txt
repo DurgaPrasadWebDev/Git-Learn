@@ -1,0 +1,7 @@
+Git Installation Process
+----------------------------------------------
+
+1.open Terminal 
+2.sudo apt update
+3.sudo apt-get install git
+4.git --version
