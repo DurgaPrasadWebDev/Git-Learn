@@ -1,0 +1,10 @@
+Git pull and push
+---------------------------------------
+
+1.open terminal 
+
+2. first pull the code into local git repository then push it is good practies when work on teem
+
+3. git pull origin master
+
+4. git push origin master
