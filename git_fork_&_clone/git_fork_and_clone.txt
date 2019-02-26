@@ -1,0 +1,17 @@
+Git Fork and Clone
+-----------------------------------------------
+
+
+1.open the github account 
+
+2.then find out which project fork to your account
+
+3.in your account top most right side one button that is fork
+
+4.click it then get that project into your repository
+
+5.clone means download the project in local repository
+
+6.git clone (Enter the url)
+
+Ex:- git clone https://github.com/DurgaPrasadWebDev/React.git
