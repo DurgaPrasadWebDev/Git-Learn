@@ -23,3 +23,5 @@ Ex:- git reset HEAD durgaprasad.txt
 
 Ex:- git checkout -- durgaprasad.txt
 
+10.Thankyou
+
