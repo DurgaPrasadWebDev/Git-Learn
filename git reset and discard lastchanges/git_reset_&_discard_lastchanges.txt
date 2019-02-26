@@ -1,0 +1,25 @@
+Git reset and discart Last Changes in your file
+---------------------------------------------------------
+
+1.open the terminal 
+
+2. git status
+
+3. if status is tell to commite then we want commite there is no problem otherwise use this commands
+
+4. git reset HEAD filename
+
+Ex:- git reset HEAD durgaprasad.txt
+
+5. once again checkit the git status command
+
+6. git status 
+
+7. the files is show as red 
+
+8. if you want  discart last change in your file
+
+9.git checkout -- filename
+
+Ex:- git checkout -- durgaprasad.txt
+
