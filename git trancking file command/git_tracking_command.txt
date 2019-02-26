@@ -1,0 +1,8 @@
+Git tracking files list
+---------------------------------------------
+
+1.open terminal
+
+2. git ls-files
+
+3.then show the all tracking file in your repository
