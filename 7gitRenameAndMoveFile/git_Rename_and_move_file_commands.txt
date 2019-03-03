@@ -1,0 +1,24 @@
+Git Rename and Move the file Commands
+-----------------------------------------------------------
+
+1. open terminal 
+
+2. if you want rename the file use this command
+
+3. git mv oldnamefile newnamefile
+
+Ex:- git mv durga.txt naga.txt
+
+and finally commite the changes
+
+4. this command work for folder also 
+
+5. git mv oldfolder newfolder
+
+Ex:- git mv durga durga2
+
+6. if we want move the file one direction to another direction use this command
+
+7. git mv filename movepath
+
+8.Ex:- git mv durga.txt naga
