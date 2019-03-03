@@ -1,0 +1,35 @@
+Git Delete Files Using Command
+------------------------------------------------------
+
+1.open Terminal
+
+2.rm command is useful for deleting file 
+3. rm -rf command is useful for deleting folder
+
+4.if we want to delete the file using this command rm
+
+5. rm filename
+
+Ex:- rm durga.txt
+
+6. if we want to delete the folder and child folder and files using this command
+
+7. rm -rf foldername
+
+Ex:- rm -rf durga
+
+8.Now check out the git status then it will be as red color for change to git stage
+
+9. using this command for git tracking that file 
+
+10. git add -A
+
+11. add -A for update of modified or any replace the changes 
+
+12. now we check git status it will show green color for git commit
+
+13.using this command to git tracking all delete files also
+
+14. git commit -m "Delete the durga.txt"
+
+
