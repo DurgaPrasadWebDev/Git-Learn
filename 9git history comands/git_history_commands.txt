@@ -1,0 +1,18 @@
+Git history commands
+----------------------------------------------------------
+
+1)git log :- it is show all commit list 
+
+2)git log --abbrev-commit:- it is show all commit list with neet ids
+
+3)git log --oneline --graph --decorate :- it is show all commit list line by line and easly understand
+
+4)git log smallidfrom....smallifto :- it is show ranged commit list 
+
+Ex:- git log 9ff13e3...e827919
+
+4)git log --since="3 days ago" :- it is used for day based search commit list
+
+5)git log -- specificfile name:- it show the specificfile commit list
+
+ex:- git log -- durga.txt
